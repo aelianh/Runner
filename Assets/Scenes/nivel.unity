@@ -2060,6 +2060,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
 --- !u!4 &54284014 stripped
@@ -2207,6 +2211,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
       propertyPath: m_Name
       value: scaffold_stairs
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
@@ -2592,6 +2600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
 --- !u!4 &61843893 stripped
@@ -2790,6 +2802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Street Tree 6 (156)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
 --- !u!4 &69571261 stripped
@@ -2917,6 +2933,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
       propertyPath: m_Name
       value: pillar (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
@@ -3242,9 +3262,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -3521,6 +3553,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
       propertyPath: m_Name
       value: scaffold_stairs (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
@@ -5392,6 +5428,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_small_high
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 89d780d23b55d8142b99708067d2ff97, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89d780d23b55d8142b99708067d2ff97, type: 3}
 --- !u!4 &145707003 stripped
@@ -5775,6 +5815,10 @@ PrefabInstance:
     - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
       propertyPath: m_Name
       value: deadTree Variant (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
@@ -6816,6 +6860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
 --- !u!4 &174955912 stripped
@@ -7312,9 +7360,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -7941,6 +8001,10 @@ PrefabInstance:
     - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
       propertyPath: m_Name
       value: deadTree Variant (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
@@ -10222,31 +10286,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 208.8
+      value: 208.8418
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 131.8
+      value: 132.51978
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 25.4
+      value: 25.385681
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.0089559285
+      value: 0.008977261
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.67670643
+      value: 0.7120348
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.73619825
+      value: -0.7020868
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0006545134
+      value: 0.00021402298
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -10258,11 +10322,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -85.173
+      value: -90.802
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_Name
       value: Street Tree 6 (158)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
@@ -10473,6 +10541,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -10861,6 +10933,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
       propertyPath: m_Name
       value: pillar (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
@@ -11361,6 +11437,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
       propertyPath: m_Name
       value: pillar (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
@@ -12020,9 +12100,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -15198,9 +15290,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -16790,9 +16894,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -18604,6 +18720,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &524450920 stripped
@@ -19460,9 +19580,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -20240,9 +20372,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -23578,9 +23722,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -25706,6 +25862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
 --- !u!4 &737035237 stripped
@@ -26424,6 +26584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
 --- !u!4 &759729699 stripped
@@ -26645,6 +26809,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
@@ -27164,6 +27332,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: deadTree Variant (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
 --- !u!4 &770826054 stripped
@@ -27485,6 +27657,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -28068,6 +28244,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_stairs (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
 --- !u!4 &800949534 stripped
@@ -28614,9 +28794,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -29934,6 +30126,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_medium_cornerBoth (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
 --- !u!4 &870378094 stripped
@@ -30702,6 +30898,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &888871636 stripped
@@ -31047,6 +31247,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -31419,6 +31623,10 @@ PrefabInstance:
     - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
       propertyPath: m_Name
       value: deadTree Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
@@ -32138,9 +32346,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -33527,6 +33747,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -37266,9 +37490,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -39621,6 +39857,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &1120311797 stripped
@@ -40177,9 +40417,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -41972,6 +42224,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
 --- !u!4 &1181810497 stripped
@@ -42775,6 +43031,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_stairs (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57725188d7cf98a408297460a48c19e1, type: 3}
 --- !u!4 &1194477372 stripped
@@ -42919,31 +43179,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 208.90001
+      value: 208.94193
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 131.90001
+      value: 132.62016
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 33.16001
+      value: 33.14563
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.0089559285
+      value: 0.008977261
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.67670643
+      value: 0.7120348
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.73619825
+      value: -0.7020868
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0006545134
+      value: 0.00021402298
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -42955,11 +43215,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -85.173
+      value: -90.802
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_Name
       value: Street Tree 6 (157)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
@@ -43482,6 +43746,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
       propertyPath: m_Name
       value: pillar (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
@@ -45589,6 +45857,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &1267126108 stripped
@@ -45969,9 +46241,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -47395,6 +47679,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_small_high (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 89d780d23b55d8142b99708067d2ff97, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89d780d23b55d8142b99708067d2ff97, type: 3}
 --- !u!4 &1312796537 stripped
@@ -47654,6 +47942,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
@@ -49017,6 +49309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: deadTree Variant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
 --- !u!4 &1354437352 stripped
@@ -49501,9 +49797,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -49626,6 +49934,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
       propertyPath: m_Name
       value: pillar (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
@@ -50762,6 +51074,10 @@ PrefabInstance:
     - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
       propertyPath: m_Name
       value: deadTree Variant (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
@@ -52369,6 +52685,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &1446785220 stripped
@@ -53801,6 +54121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
 --- !u!4 &1493454845 stripped
@@ -53925,6 +54249,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Street Tree 6 (154)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
 --- !u!4 &1494510888 stripped
@@ -53986,6 +54314,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -54455,6 +54787,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &1509031800 stripped
@@ -54640,6 +54976,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
       propertyPath: m_Name
       value: Street Tree 6 (155)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7683cd98afb52fe459f7c45b266ca44a, type: 3}
@@ -55125,9 +55465,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -56101,6 +56453,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: deadTree Variant (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
 --- !u!4 &1555079158 stripped
@@ -56561,9 +56917,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -57089,6 +57457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
 --- !u!4 &1580281338 stripped
@@ -57411,6 +57783,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
 --- !u!4 &1588946898 stripped
@@ -57608,6 +57984,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
@@ -57878,6 +58258,10 @@ PrefabInstance:
     - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
       propertyPath: m_Name
       value: deadTree Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
@@ -58460,6 +58844,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -59142,6 +59530,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9c4f0d7874ffbf54aa3d2be987c4262c, type: 3}
       propertyPath: m_Name
       value: scaffold_small_medium
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9c4f0d7874ffbf54aa3d2be987c4262c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c4f0d7874ffbf54aa3d2be987c4262c, type: 3}
@@ -60393,6 +60785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
 --- !u!4 &1666798446 stripped
@@ -61339,9 +61735,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -61921,9 +62329,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1252710761}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -62853,6 +63273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_small_high (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 89d780d23b55d8142b99708067d2ff97, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89d780d23b55d8142b99708067d2ff97, type: 3}
 --- !u!4 &1727467216 stripped
@@ -63741,6 +64165,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: deadTree Variant (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6604790417187696603, guid: 63a41ff51baa285678539abba629f286, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a41ff51baa285678539abba629f286, type: 3}
 --- !u!4 &1748491961 stripped
@@ -63817,9 +64245,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -63977,9 +64417,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -64664,6 +65116,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
       propertyPath: m_Name
       value: scaffold_medium_cornerBoth
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
@@ -66123,9 +66579,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -67471,6 +67939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_medium_cornerBoth (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
 --- !u!4 &1853620607 stripped
@@ -67793,6 +68265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &1862037572 stripped
@@ -68010,12 +68486,24 @@ PrefabInstance:
       value: 58
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0088
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0088
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.0088
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_LocalPosition.x
       value: 240.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 168.62915
+      value: 168.61
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_LocalPosition.z
@@ -68052,6 +68540,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
       propertyPath: m_Name
       value: pillar_broken (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
@@ -69163,9 +69655,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -71711,6 +72215,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_medium_cornerBoth (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb54ce4ad10d99949bc7cdb7f2dc467c, type: 3}
 --- !u!4 &1996499962 stripped
@@ -72935,9 +73443,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
@@ -73807,6 +74327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scaffold_small_medium (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9c4f0d7874ffbf54aa3d2be987c4262c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c4f0d7874ffbf54aa3d2be987c4262c, type: 3}
 --- !u!4 &2066707709 stripped
@@ -73880,6 +74404,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
       propertyPath: m_Name
       value: bookcaseWideFilled_broken (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c39cddaf04695418ed3bb8395f662a, type: 3}
@@ -74253,6 +74781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar_broken
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7d1b50bff3d2ba4b8b438bcf2fac175, type: 3}
 --- !u!4 &2078212248 stripped
@@ -74380,6 +74912,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
       propertyPath: m_Name
       value: pillar (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6c7a778cfdb4f488bc7a7177fa072c, type: 3}
@@ -74605,9 +75141,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1171997471}
     m_Modifications:
+    - target: {fileID: 1065071812178682, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694845672579496, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_Name
       value: Free_Snow_1 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880992870025072, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4011507764752036, guid: 828eb901c5cb42b46b8881545ac8d86f, type: 3}
       propertyPath: m_RootOrder
