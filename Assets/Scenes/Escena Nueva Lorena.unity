@@ -7362,7 +7362,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 179.837, z: -90}
 --- !u!4 &233142762 stripped
 Transform:
@@ -10532,7 +10532,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 89.837, z: 0}
 --- !u!1001 &347316898
 PrefabInstance:
@@ -12608,7 +12608,7 @@ Transform:
   - {fileID: 1836214814}
   - {fileID: 537119371}
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &428115915 stripped
 Transform:
@@ -14340,7 +14340,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 50, y: 59.837, z: 0}
 --- !u!1001 &482471265
 PrefabInstance:
@@ -21476,7 +21476,7 @@ Transform:
   - {fileID: 260281832}
   - {fileID: 1423353205}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &735444544
 PrefabInstance:
@@ -22949,7 +22949,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 89.837, z: 0}
 --- !u!1001 &776645517
 PrefabInstance:
@@ -23124,7 +23124,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 89.837, z: 0}
 --- !u!1001 &777878603
 PrefabInstance:
@@ -28798,7 +28798,7 @@ Transform:
   - {fileID: 1012620663}
   - {fileID: 855823452}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &930516323
 PrefabInstance:
@@ -37930,7 +37930,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 179.837, z: -90}
 --- !u!1001 &1205409642
 PrefabInstance:
@@ -42495,6 +42495,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1348694126}
+  - component: {fileID: 1348694127}
   m_Layer: 7
   m_Name: Obstaculos
   m_TagString: Untagged
@@ -42931,8 +42932,22 @@ Transform:
   - {fileID: 138953026}
   - {fileID: 262216414}
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &1348694127
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348694125}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1001 &1351417737
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -46321,7 +46336,7 @@ Transform:
   - {fileID: 1874970731}
   - {fileID: 854111015}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1469703382
 PrefabInstance:
@@ -51330,7 +51345,7 @@ Transform:
   - {fileID: 167487336}
   - {fileID: 71810146}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1624115889
 PrefabInstance:
@@ -61482,7 +61497,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 179.837, z: 0}
 --- !u!1001 &1938905332
 PrefabInstance:
@@ -62897,7 +62912,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 89.837, z: 0}
 --- !u!1001 &1987719785
 PrefabInstance:
@@ -67123,7 +67138,7 @@ Transform:
   - {fileID: 93294957}
   - {fileID: 478804850}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2108748687
 PrefabInstance:
